@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hello coders 👋<br>I'm Marcelo Benitez. I'm 22 years old, I'm studying my last year as a Software Developer. I am not currently working. Here I upload some of the projects I use to learn day by day. <br>Enjoy as much as you want. If you have any doubt, don't hesitate to contact me ❤️‍🩹
+# 💫 About Me  
+
+Hello coders 👋  
+I'm Marcelo Benitez, a 22-year-old Software Developer currently in my last year of studies. I work at **LumarSoft**, a freelance development company where I focus on creating innovative and efficient software solutions.  
+
+In my free time, I enjoy learning and improving my skills through personal projects, many of which I share here.  
+
+Feel free to explore my work, and if you have any questions, don't hesitate to contact me.  
+Happy coding! ❤️‍🩹
 
 
 ## 🌐 Socials:
